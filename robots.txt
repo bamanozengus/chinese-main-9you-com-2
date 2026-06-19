@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bamanozengus.github.io/chinese-main-9you-com-2/sitemap.xml
